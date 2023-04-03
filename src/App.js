@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-        Subscribe Zainkeepscode
+        Developer Clecio Batista Santos
     </div>
   );
 }
