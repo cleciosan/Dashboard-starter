@@ -20,10 +20,17 @@
   );
   height: 100vh;
   display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: 'Inter', sans-serif;
 }
 
 .AppGlass{
   display: grid;
   height: 97%;
+  width: 97%;
+  border-radius: 2rem;
+  background-color: var(--glass);
+  overflow: hidden;
+  grid-template-columns: 11rem auto 20rem;
 }

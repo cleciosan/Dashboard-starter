@@ -1,10 +1,12 @@
 import './App.css'
+import Sidebar from './components/SideBar/SideBar';
 
 function App() {
   return (
     <div className="App">
-      SGM em breve
-        <div className="AppGlass"></div>
+        <div className="AppGlass">
+          <Sidebar/>
+        </div>
     </div>
   );
 }
