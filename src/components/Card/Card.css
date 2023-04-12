@@ -10,7 +10,7 @@
 }
 
 .CompactCard:hover{
-    box-shadow: none;
+    box-shadow: none !important;
 }
 
 /* RadialBar*/
